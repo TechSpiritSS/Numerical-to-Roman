@@ -1,3 +1,10 @@
+#Numerical to Roman Convertor
+"""
+It works using the algo which is taught to
+a grade 5 student who learns about Roman 
+number system in school, by reducing the 
+bigger number into smaller and smaller
+"""
 def Check(n):
     if n < 4:
         Roman = ""
